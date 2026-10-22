@@ -1,0 +1,5 @@
+# Ignore generated backup files
+backups/
+
+# Ignore backup log
+backup.log
